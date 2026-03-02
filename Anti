@@ -92,7 +92,7 @@ end
  
 -- Execute BoltsHub (bypassed one)
 function module.ExecuteBH()
-  loadstring(game:HttpGet("https://raw.githubusercontent.com/Storm99999/AR-UtilsV2/main/src/assets/ac_disabled_bh.lua"))()
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/jmk-arch/Arsenal-Anticheat/refs/heads/main/Anti2"))()
 end
  
 return module
